@@ -1,0 +1,2 @@
+# domensVpnList
+Домены для VPN
