@@ -837,6 +837,7 @@ nftset=/www.udemy.com/4#inet#fw4#vpn_domains
 nftset=/cdn.udemy.com/4#inet#fw4#vpn_domains
 nftset=/assets.udemy.com/4#inet#fw4#vpn_domains
 
+nftset=/chatgpt.com/4#inet#fw4#vpn_domains
 nftset=/openai.com/4#inet#fw4#vpn_domains
 nftset=/chat.openai.com/4#inet#fw4#vpn_domains
 nftset=/auth0.openai.com/4#inet#fw4#vpn_domains
@@ -847,4 +848,5 @@ nftset=/openaicom.imgix.net/4#inet#fw4#vpn_domains
 nftset=/static.cloudflareinsights.com/4#inet#fw4#vpn_domains
 nftset=/intercom.io/4#inet#fw4#vpn_domains
 nftset=/intercomcdn.com/4#inet#fw4#vpn_domains
+nftset=/chatgpt.com/6#inet6#fw4#vpn_domains
 
