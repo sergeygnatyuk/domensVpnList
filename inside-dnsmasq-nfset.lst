@@ -837,16 +837,22 @@ nftset=/www.udemy.com/4#inet#fw4#vpn_domains
 nftset=/cdn.udemy.com/4#inet#fw4#vpn_domains
 nftset=/assets.udemy.com/4#inet#fw4#vpn_domains
 
-nftset=/chatgpt.com/4#inet#fw4#vpn_domains
-nftset=/openai.com/4#inet#fw4#vpn_domains
-nftset=/chat.openai.com/4#inet#fw4#vpn_domains
-nftset=/auth0.openai.com/4#inet#fw4#vpn_domains
-nftset=/platform.openai.com/4#inet#fw4#vpn_domains
-nftset=/api.openai.com/4#inet#fw4#vpn_domains
-nftset=/cdn.openai.com/4#inet#fw4#vpn_domains
-nftset=/openaicom.imgix.net/4#inet#fw4#vpn_domains
-nftset=/static.cloudflareinsights.com/4#inet#fw4#vpn_domains
-nftset=/intercom.io/4#inet#fw4#vpn_domains
-nftset=/intercomcdn.com/4#inet#fw4#vpn_domains
-nftset=/chatgpt.com/6#inet6#fw4#vpn_domains
+/chatgpt.com/4#inet#fw4#vpn_domains
+/openai.com/4#inet#fw4#vpn_domains
+/chat.openai.com/4#inet#fw4#vpn_domains
+/auth0.openai.com/4#inet#fw4#vpn_domains
+/platform.openai.com/4#inet#fw4#vpn_domains
+/api.openai.com/4#inet#fw4#vpn_domains
+/cdn.openai.com/4#inet#fw4#vpn_domains
+/openaicom.imgix.net/4#inet#fw4#vpn_domains
+/static.cloudflareinsights.com/4#inet#fw4#vpn_domains
+/cf-assets.cloudflare.com/4#inet#fw4#vpn_domains
+/challenges.cloudflare.com/4#inet#fw4#vpn_domains
+/js.challenge.cloudflare.com/4#inet#fw4#vpn_domains
+/intercom.io/4#inet#fw4#vpn_domains
+/intercomcdn.com/4#inet#fw4#vpn_domains
+/amplitude.com/4#inet#fw4#vpn_domains
+/api.amplitude.com/4#inet#fw4#vpn_domains
+/auth0.com/4#inet#fw4#vpn_domains
+
 
