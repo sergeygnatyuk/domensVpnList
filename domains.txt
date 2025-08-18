@@ -20,63 +20,46 @@ redirector.youtube.com
 
 // Medium
 medium.com
-www.medium.com
 miro.medium.com
 api.medium.com
 
-// Udemy
+// Study
+coursera.org
+edx.org
+udacity.com
 udemy.com
-business.udemy.com
-blog.udemy.com
-info.udemy.com
-cisco.udemy.com
-ibm-learning.udemy.com
-api.udemy.com
-support.udemy.com
 www.udemy.com
 cdn.udemy.com
 assets.udemy.com
 
 // Open AI
-chatgpt.com
-ios.chat.openai.com
-ab.chatgpt.com
-api.segment.io
-browser-intake-datadoghq.com
 openai.com
-platform.openai.com
 chat.openai.com
+platform.openai.com
 api.openai.com
-research.openai.com
 cdn.openai.com
-events.openai.com
-share.openai.com
-videos.openai.com
-accounts.openai.com
-labs.openai.com
-community.openai.com
-forum.openai.com
-trust.openai.com
-academy.openai.com
-sora.openai.com
 auth0.openai.com
 cdn.auth0.com
+chatgpt.com
 
 // Torrent
-linkedin.com
 rutracker.org
-static.rutracker.cc
-rutor.info
-rutor.is
-rutor.org
 rutracker.cc
 rutracker.net
-rutracker.org
 rutracker.wiki
+rutor.org
+rutor.info
+rutor.is
 
 // Social
-// Web
+linkedin.com
 instagram.com
-static.cdninstagram.com
-gateway.instagram.com
-edge-chat.facebook.com
+cdninstagram.com
+facebook.com
+twitter.com
+t.co
+x.com
+reddit.com
+redditstatic.com
+wikipedia.org
+
