@@ -1,0 +1,6 @@
+medium.com
+linkedin.com
+
+# openai
+openai.com
+chat.openai.com
